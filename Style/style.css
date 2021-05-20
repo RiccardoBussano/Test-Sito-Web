@@ -1,0 +1,12 @@
+header
+ {background: rgb(129, 153, 233); color: rgb(255, 255, 255); }
+nav
+  {border: 1px solid black;}
+ciao
+{color: rebeccapurple;}
+.immagine_centrata
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
